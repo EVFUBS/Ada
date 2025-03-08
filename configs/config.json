@@ -1,0 +1,7 @@
+{
+  "transcribe_audio_directory_path": "",
+  "google_ai_api_key": "",
+  "chat_model": "gemini-2.0-flash",
+  "intent_model": "llama3.2:1b",
+  "intent_prompt": "You are Ada a smart home assistant. Analyze the user's request and decide on one action from the available options: %v. If the request includes the word 'Ada' its likely intended for you, respond with the most relevant option. Otherwise, respond with 'notforme'. Your response must match exactly one of these options."
+}
